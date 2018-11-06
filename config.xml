@@ -55,7 +55,7 @@
     </platform>
     <access origin="*"/>
     <allow-navigation href="*"/>
-    <preference name="android-targetSdkVersion" value="27"/>
+    <preference name="android-targetSdkVersion" value="25"/>
     <preference name="android-minSdkVersion" value="16"/>
     <preference name="phonegap-version" value="cli-6.5.0"/>
     <config-file platform="android" parent="/manifest/application" mode="merge">
