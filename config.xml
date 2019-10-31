@@ -133,7 +133,7 @@
             <preference name="FadeSplashScreenDuration" value="1000"/>
             <preference name="ShowSplashScreenSpinner" value="false"/>
         <!--Push Plugin-->
-            <plugin name="Push Plugin" spec="https://github.com/commontime/phonegap-plugin-push#2.5.18"/>
+            <plugin name="Push Plugin" spec="https://github.com/commontime/phonegap-plugin-push#2.5.19"/>
         <!--End of Custom Plugins:-->
             <platform name="android">
                 <resource-file src="user-assets/google-services.json" target="app/google-services.json"/>
